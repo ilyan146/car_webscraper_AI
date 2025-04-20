@@ -32,3 +32,4 @@ def simple_gpt_bot():
 
 if __name__ == "__main__":
     simple_gpt_bot()
+    print("Chatbot exited.")
